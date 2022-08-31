@@ -125,3 +125,53 @@ Result in different environments:
 +---------------------------+----------------+---------------------------+
  ```
  ## 5.1 DDPG and TD3 reward vs episode
+ <table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nirmalya247/GYM-DDPG-TD3/master/images/pendulum.png" style="width:400px">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nirmalya247/GYM-DDPG-TD3/master/images/montain_car.png" style="width:400px">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      pendulum
+    </td>
+    <td>
+      montain car
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nirmalya247/GYM-DDPG-TD3/master/images/half_cheeta.png" style="width:400px">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nirmalya247/GYM-DDPG-TD3/master/images/ant.png" style="width:400px">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      half cheeta
+    </td>
+    <td>
+      ant
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://raw.githubusercontent.com/Nirmalya247/GYM-DDPG-TD3/master/images/double_pendulum.png" style="width:400px">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      double pendulum
+    </td>
+  </tr>
+</table>
+
+## 6 Discussion
+DDPG is good but has many shortcoming in real applications (Environments with high action space or Step based environment).
+- **Steps**: It does not works directly in a step based environment as discussed above (in empirical methodology)
+- **Reward**: Best exploration is possible if we have maximum reward 0. But in many real environments we don't know how good step we can get in future like walking. So, we can not set a maximum reward.
+- **Exploration**: Critic expects to get a full view of the environment, but exploration in large action space is hard and in step based environments it becomes harder as Adding nose also does not get to all possible steps. (For example we can not explore all type of steps in a walking environment by adding noise only) We need to random sample environment at the beginning for this.
