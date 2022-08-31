@@ -1,0 +1,1308 @@
+Episode: 1, Total Timesteps: 183, Episode Reward: 1.48
+Episode: 2, Total Timesteps: 1183, Episode Reward: -352.76
+Episode: 3, Total Timesteps: 1198, Episode Reward: 1.24
+Episode: 4, Total Timesteps: 1219, Episode Reward: -24.30
+Episode: 5, Total Timesteps: 1258, Episode Reward: -21.08
+Episode: 6, Total Timesteps: 1284, Episode Reward: -20.33
+Episode: 7, Total Timesteps: 1296, Episode Reward: -3.29
+Episode: 8, Total Timesteps: 1396, Episode Reward: -4.67
+Episode: 9, Total Timesteps: 1446, Episode Reward: -17.17
+Episode: 10, Total Timesteps: 1726, Episode Reward: -70.81
+Episode: 11, Total Timesteps: 2026, Episode Reward: -44.09
+Episode: 12, Total Timesteps: 3026, Episode Reward: -307.39
+Episode: 13, Total Timesteps: 3158, Episode Reward: -21.64
+Episode: 14, Total Timesteps: 3188, Episode Reward: -24.41
+Episode: 15, Total Timesteps: 3250, Episode Reward: -44.25
+Episode: 16, Total Timesteps: 3358, Episode Reward: -13.90
+Episode: 17, Total Timesteps: 3456, Episode Reward: -27.45
+Episode: 18, Total Timesteps: 3544, Episode Reward: -52.92
+Episode: 19, Total Timesteps: 3620, Episode Reward: 12.20
+Episode: 20, Total Timesteps: 3657, Episode Reward: 4.70
+Episode: 21, Total Timesteps: 3763, Episode Reward: -26.39
+Episode: 22, Total Timesteps: 3962, Episode Reward: -114.69
+Episode: 23, Total Timesteps: 4962, Episode Reward: -304.19
+Episode: 24, Total Timesteps: 5156, Episode Reward: -82.87
+---------------------------------------
+Average Reward over the Evaluation Step: 992.761697
+---------------------------------------
+Episode: 25, Total Timesteps: 5252, Episode Reward: -42.43
+Episode: 26, Total Timesteps: 5266, Episode Reward: -0.55
+Episode: 27, Total Timesteps: 5456, Episode Reward: -144.62
+Episode: 28, Total Timesteps: 6456, Episode Reward: -237.37
+Episode: 29, Total Timesteps: 6668, Episode Reward: -31.64
+Episode: 30, Total Timesteps: 6741, Episode Reward: -13.33
+Episode: 31, Total Timesteps: 6785, Episode Reward: 17.20
+Episode: 32, Total Timesteps: 6834, Episode Reward: -39.04
+Episode: 33, Total Timesteps: 7834, Episode Reward: -297.49
+Episode: 34, Total Timesteps: 7867, Episode Reward: -0.55
+Episode: 35, Total Timesteps: 7902, Episode Reward: -7.58
+Episode: 36, Total Timesteps: 7986, Episode Reward: -52.59
+Episode: 37, Total Timesteps: 8013, Episode Reward: -13.68
+Episode: 38, Total Timesteps: 8087, Episode Reward: -7.80
+Episode: 39, Total Timesteps: 8149, Episode Reward: -48.59
+Episode: 40, Total Timesteps: 8203, Episode Reward: -13.38
+Episode: 41, Total Timesteps: 8258, Episode Reward: -20.21
+Episode: 42, Total Timesteps: 8403, Episode Reward: -25.29
+Episode: 43, Total Timesteps: 8493, Episode Reward: 11.66
+Episode: 44, Total Timesteps: 8539, Episode Reward: -6.85
+Episode: 45, Total Timesteps: 8593, Episode Reward: -22.37
+Episode: 46, Total Timesteps: 8643, Episode Reward: -44.43
+Episode: 47, Total Timesteps: 8684, Episode Reward: 2.94
+Episode: 48, Total Timesteps: 9684, Episode Reward: -227.67
+Episode: 49, Total Timesteps: 9736, Episode Reward: -47.71
+Episode: 50, Total Timesteps: 9801, Episode Reward: -22.26
+Episode: 51, Total Timesteps: 9889, Episode Reward: -5.05
+Episode: 63, Total Timesteps: 19541, Episode Reward: 562.92
+Episode: 64, Total Timesteps: 20541, Episode Reward: 466.87
+---------------------------------------
+Average Reward over the Evaluation Step: 235.829045
+---------------------------------------
+Episode: 65, Total Timesteps: 20601, Episode Reward: 31.26
+Episode: 66, Total Timesteps: 20617, Episode Reward: 9.39
+Episode: 67, Total Timesteps: 20777, Episode Reward: 77.18
+Episode: 68, Total Timesteps: 20893, Episode Reward: 63.84
+Episode: 69, Total Timesteps: 20977, Episode Reward: 50.23
+Episode: 70, Total Timesteps: 21570, Episode Reward: 171.50
+Episode: 71, Total Timesteps: 21590, Episode Reward: 13.47
+Episode: 72, Total Timesteps: 22590, Episode Reward: 416.04
+Episode: 73, Total Timesteps: 22645, Episode Reward: 37.15
+Episode: 74, Total Timesteps: 22813, Episode Reward: 87.51
+Episode: 75, Total Timesteps: 23813, Episode Reward: 512.21
+Episode: 76, Total Timesteps: 23866, Episode Reward: 28.55
+Episode: 77, Total Timesteps: 24866, Episode Reward: 519.89
+Episode: 78, Total Timesteps: 25866, Episode Reward: 515.71
+---------------------------------------
+Average Reward over the Evaluation Step: 397.013182
+---------------------------------------
+Episode: 79, Total Timesteps: 26866, Episode Reward: 578.45
+Episode: 80, Total Timesteps: 27641, Episode Reward: 455.80
+Episode: 81, Total Timesteps: 28641, Episode Reward: 645.82
+Episode: 82, Total Timesteps: 29641, Episode Reward: 667.19
+Episode: 83, Total Timesteps: 30641, Episode Reward: 563.05
+---------------------------------------
+Average Reward over the Evaluation Step: 602.450119
+---------------------------------------
+Episode: 84, Total Timesteps: 31641, Episode Reward: 708.85
+Episode: 85, Total Timesteps: 31654, Episode Reward: 7.01
+Episode: 86, Total Timesteps: 32654, Episode Reward: 692.36
+Episode: 87, Total Timesteps: 33654, Episode Reward: 717.31
+Episode: 88, Total Timesteps: 34117, Episode Reward: 161.34
+Episode: 89, Total Timesteps: 35117, Episode Reward: 779.27
+---------------------------------------
+Average Reward over the Evaluation Step: 792.891702
+---------------------------------------
+Episode: 90, Total Timesteps: 35881, Episode Reward: 532.85
+Episode: 91, Total Timesteps: 36881, Episode Reward: 771.23
+Episode: 92, Total Timesteps: 37881, Episode Reward: 770.95
+Episode: 93, Total Timesteps: 38881, Episode Reward: 814.29
+Episode: 94, Total Timesteps: 39881, Episode Reward: 744.37
+Episode: 95, Total Timesteps: 40881, Episode Reward: 802.11
+---------------------------------------
+Average Reward over the Evaluation Step: 672.373968
+---------------------------------------
+Episode: 96, Total Timesteps: 41881, Episode Reward: 795.30
+Episode: 97, Total Timesteps: 42881, Episode Reward: 819.67
+Episode: 98, Total Timesteps: 43881, Episode Reward: 808.91
+Episode: 99, Total Timesteps: 44881, Episode Reward: 789.76
+Episode: 100, Total Timesteps: 45881, Episode Reward: 804.34
+---------------------------------------
+Average Reward over the Evaluation Step: 864.220859
+---------------------------------------
+Episode: 101, Total Timesteps: 46881, Episode Reward: 798.46
+Episode: 102, Total Timesteps: 47881, Episode Reward: 817.47
+Episode: 103, Total Timesteps: 48881, Episode Reward: 839.96
+Episode: 104, Total Timesteps: 49881, Episode Reward: 735.05
+Episode: 105, Total Timesteps: 50881, Episode Reward: 855.13
+---------------------------------------
+Average Reward over the Evaluation Step: 890.621319
+---------------------------------------
+Episode: 106, Total Timesteps: 51881, Episode Reward: 784.60
+Episode: 107, Total Timesteps: 52881, Episode Reward: 830.57
+Episode: 108, Total Timesteps: 53881, Episode Reward: 824.26
+Episode: 109, Total Timesteps: 54881, Episode Reward: 839.19
+Episode: 110, Total Timesteps: 55881, Episode Reward: 839.97
+---------------------------------------
+Average Reward over the Evaluation Step: 881.729636
+---------------------------------------
+Episode: 111, Total Timesteps: 56881, Episode Reward: 831.59
+Episode: 112, Total Timesteps: 57179, Episode Reward: 67.71
+Episode: 113, Total Timesteps: 58179, Episode Reward: 836.03
+Episode: 114, Total Timesteps: 59179, Episode Reward: 856.22
+Episode: 115, Total Timesteps: 60179, Episode Reward: 861.41
+---------------------------------------
+Average Reward over the Evaluation Step: 795.806367
+---------------------------------------
+Episode: 116, Total Timesteps: 61179, Episode Reward: 878.17
+Episode: 117, Total Timesteps: 62179, Episode Reward: 868.37
+Episode: 118, Total Timesteps: 63179, Episode Reward: 872.63
+Episode: 119, Total Timesteps: 64179, Episode Reward: 865.59
+Episode: 120, Total Timesteps: 65179, Episode Reward: 822.09
+---------------------------------------
+Average Reward over the Evaluation Step: 909.906420
+---------------------------------------
+Episode: 121, Total Timesteps: 66179, Episode Reward: 819.44
+Episode: 122, Total Timesteps: 67179, Episode Reward: 495.32
+Episode: 123, Total Timesteps: 68179, Episode Reward: 819.61
+Episode: 124, Total Timesteps: 69179, Episode Reward: 854.88
+Episode: 125, Total Timesteps: 70179, Episode Reward: 863.78
+---------------------------------------
+Average Reward over the Evaluation Step: 901.375404
+---------------------------------------
+Episode: 126, Total Timesteps: 71179, Episode Reward: 871.10
+Episode: 127, Total Timesteps: 72179, Episode Reward: 873.73
+Episode: 128, Total Timesteps: 73179, Episode Reward: 871.13
+Episode: 129, Total Timesteps: 74179, Episode Reward: 861.76
+Episode: 130, Total Timesteps: 75179, Episode Reward: 867.82
+---------------------------------------
+Average Reward over the Evaluation Step: 933.564429
+---------------------------------------
+Episode: 131, Total Timesteps: 76179, Episode Reward: 882.61
+Episode: 132, Total Timesteps: 77179, Episode Reward: 892.23
+Episode: 133, Total Timesteps: 78179, Episode Reward: 876.64
+Episode: 134, Total Timesteps: 79179, Episode Reward: 855.28
+Episode: 135, Total Timesteps: 80179, Episode Reward: 899.07
+---------------------------------------
+Average Reward over the Evaluation Step: 890.633560
+---------------------------------------
+Episode: 136, Total Timesteps: 81179, Episode Reward: 858.67
+Episode: 137, Total Timesteps: 82179, Episode Reward: 902.84
+Episode: 138, Total Timesteps: 83179, Episode Reward: 899.79
+Episode: 139, Total Timesteps: 84179, Episode Reward: 913.75
+Episode: 140, Total Timesteps: 85179, Episode Reward: 638.61
+---------------------------------------
+Average Reward over the Evaluation Step: 797.256666
+---------------------------------------
+Episode: 141, Total Timesteps: 86179, Episode Reward: 917.12
+Episode: 142, Total Timesteps: 87179, Episode Reward: 903.26
+Episode: 143, Total Timesteps: 88179, Episode Reward: 910.89
+Episode: 144, Total Timesteps: 89179, Episode Reward: 913.25
+Episode: 145, Total Timesteps: 90179, Episode Reward: 892.02
+---------------------------------------
+Average Reward over the Evaluation Step: 671.614244
+---------------------------------------
+Episode: 146, Total Timesteps: 91179, Episode Reward: 958.81
+Episode: 147, Total Timesteps: 92179, Episode Reward: 904.71
+Episode: 148, Total Timesteps: 93179, Episode Reward: 847.53
+Episode: 149, Total Timesteps: 94179, Episode Reward: 918.24
+Episode: 150, Total Timesteps: 95179, Episode Reward: 896.81
+---------------------------------------
+Average Reward over the Evaluation Step: 924.897976
+---------------------------------------
+Episode: 151, Total Timesteps: 95798, Episode Reward: 542.82
+Episode: 152, Total Timesteps: 96361, Episode Reward: 456.00
+Episode: 153, Total Timesteps: 97269, Episode Reward: 640.47
+Episode: 154, Total Timesteps: 98269, Episode Reward: 913.10
+Episode: 155, Total Timesteps: 98283, Episode Reward: -10.16
+Episode: 156, Total Timesteps: 99283, Episode Reward: 927.21
+Episode: 157, Total Timesteps: 100283, Episode Reward: 937.14
+---------------------------------------
+Average Reward over the Evaluation Step: 680.635519
+---------------------------------------
+Episode: 158, Total Timesteps: 101283, Episode Reward: 488.94
+Episode: 159, Total Timesteps: 102283, Episode Reward: 840.80
+Episode: 160, Total Timesteps: 103283, Episode Reward: 774.40
+Episode: 161, Total Timesteps: 104283, Episode Reward: 916.57
+Episode: 162, Total Timesteps: 104729, Episode Reward: 423.58
+Episode: 163, Total Timesteps: 105481, Episode Reward: 788.82
+---------------------------------------
+Average Reward over the Evaluation Step: 1096.351257
+---------------------------------------
+Episode: 164, Total Timesteps: 106481, Episode Reward: 1089.92
+Episode: 165, Total Timesteps: 107481, Episode Reward: 799.65
+Episode: 166, Total Timesteps: 108481, Episode Reward: 1008.54
+Episode: 167, Total Timesteps: 109481, Episode Reward: 1087.20
+Episode: 168, Total Timesteps: 110481, Episode Reward: 1095.20
+---------------------------------------
+Average Reward over the Evaluation Step: 963.858626
+---------------------------------------
+Episode: 169, Total Timesteps: 111481, Episode Reward: 1066.82
+Episode: 170, Total Timesteps: 112481, Episode Reward: 1003.01
+Episode: 171, Total Timesteps: 113481, Episode Reward: 1074.08
+Episode: 172, Total Timesteps: 113488, Episode Reward: 1.83
+Episode: 173, Total Timesteps: 114488, Episode Reward: 999.23
+Episode: 174, Total Timesteps: 115488, Episode Reward: 940.18
+---------------------------------------
+Average Reward over the Evaluation Step: 731.627498
+---------------------------------------
+Episode: 175, Total Timesteps: 116488, Episode Reward: 1044.01
+Episode: 176, Total Timesteps: 117488, Episode Reward: 1062.40
+Episode: 177, Total Timesteps: 118488, Episode Reward: 1161.23
+Episode: 178, Total Timesteps: 119488, Episode Reward: 1121.98
+Episode: 179, Total Timesteps: 120488, Episode Reward: 1136.18
+---------------------------------------
+Average Reward over the Evaluation Step: 993.410690
+---------------------------------------
+Episode: 180, Total Timesteps: 121342, Episode Reward: 935.94
+Episode: 181, Total Timesteps: 122117, Episode Reward: 788.60
+Episode: 182, Total Timesteps: 123117, Episode Reward: 1203.85
+Episode: 183, Total Timesteps: 124117, Episode Reward: 1155.45
+Episode: 184, Total Timesteps: 125000, Episode Reward: 1053.92
+Episode: 185, Total Timesteps: 126000, Episode Reward: 1178.66
+---------------------------------------
+Average Reward over the Evaluation Step: 1198.371954
+---------------------------------------
+Episode: 186, Total Timesteps: 126703, Episode Reward: 826.64
+Episode: 187, Total Timesteps: 127703, Episode Reward: 123.52
+Episode: 188, Total Timesteps: 127892, Episode Reward: 142.52
+Episode: 189, Total Timesteps: 128752, Episode Reward: 1037.32
+Episode: 190, Total Timesteps: 129752, Episode Reward: 345.17
+Episode: 191, Total Timesteps: 130752, Episode Reward: 923.02
+---------------------------------------
+Average Reward over the Evaluation Step: 976.652385
+---------------------------------------
+Episode: 192, Total Timesteps: 131752, Episode Reward: 1254.46
+Episode: 193, Total Timesteps: 132752, Episode Reward: 1261.63
+Episode: 194, Total Timesteps: 133752, Episode Reward: 798.71
+Episode: 195, Total Timesteps: 134752, Episode Reward: 1246.37
+Episode: 196, Total Timesteps: 134785, Episode Reward: 44.28
+Episode: 197, Total Timesteps: 135785, Episode Reward: 1036.94
+---------------------------------------
+Average Reward over the Evaluation Step: 732.969828
+---------------------------------------
+Episode: 198, Total Timesteps: 136594, Episode Reward: 1058.68
+Episode: 199, Total Timesteps: 136655, Episode Reward: 31.98
+Episode: 200, Total Timesteps: 137009, Episode Reward: 438.00
+Episode: 201, Total Timesteps: 137244, Episode Reward: 309.11
+Episode: 202, Total Timesteps: 137545, Episode Reward: 376.89
+Episode: 203, Total Timesteps: 138313, Episode Reward: 1008.62
+Episode: 204, Total Timesteps: 139313, Episode Reward: 470.31
+Episode: 205, Total Timesteps: 139445, Episode Reward: 161.48
+Episode: 206, Total Timesteps: 140445, Episode Reward: 654.67
+---------------------------------------
+Average Reward over the Evaluation Step: 1052.365246
+---------------------------------------
+Episode: 207, Total Timesteps: 140479, Episode Reward: 31.10
+Episode: 208, Total Timesteps: 140498, Episode Reward: 15.18
+Episode: 209, Total Timesteps: 140703, Episode Reward: 308.29
+Episode: 210, Total Timesteps: 140741, Episode Reward: 42.90
+Episode: 211, Total Timesteps: 140838, Episode Reward: 139.96
+Episode: 212, Total Timesteps: 141516, Episode Reward: 905.03
+Episode: 775, Total Timesteps: 313669, Episode Reward: 822.77
+Episode: 776, Total Timesteps: 313927, Episode Reward: 559.37
+Episode: 777, Total Timesteps: 314033, Episode Reward: 239.84
+Episode: 778, Total Timesteps: 314208, Episode Reward: 388.42
+Episode: 779, Total Timesteps: 315208, Episode Reward: 793.67
+---------------------------------------
+Average Reward over the Evaluation Step: 549.081675
+---------------------------------------
+Episode: 780, Total Timesteps: 315418, Episode Reward: 472.47
+Episode: 781, Total Timesteps: 315536, Episode Reward: 253.56
+Episode: 782, Total Timesteps: 315767, Episode Reward: 602.80
+Episode: 783, Total Timesteps: 315971, Episode Reward: 487.66
+Episode: 784, Total Timesteps: 316131, Episode Reward: 365.39
+Episode: 785, Total Timesteps: 316235, Episode Reward: 137.11
+Episode: 786, Total Timesteps: 317235, Episode Reward: 710.62
+Episode: 787, Total Timesteps: 317255, Episode Reward: 30.39
+Episode: 788, Total Timesteps: 317294, Episode Reward: 82.30
+Episode: 789, Total Timesteps: 317475, Episode Reward: 323.95
+Episode: 790, Total Timesteps: 317498, Episode Reward: 32.45
+Episode: 791, Total Timesteps: 317641, Episode Reward: 296.78
+Episode: 792, Total Timesteps: 317739, Episode Reward: 260.07
+Episode: 793, Total Timesteps: 317852, Episode Reward: 144.46
+Episode: 794, Total Timesteps: 317869, Episode Reward: 16.18
+Episode: 795, Total Timesteps: 317921, Episode Reward: 123.77
+Episode: 796, Total Timesteps: 318017, Episode Reward: 192.31
+Episode: 797, Total Timesteps: 318112, Episode Reward: 192.64
+Episode: 798, Total Timesteps: 318212, Episode Reward: 266.13
+Episode: 799, Total Timesteps: 318276, Episode Reward: 126.67
+Episode: 800, Total Timesteps: 318368, Episode Reward: 240.77
+Episode: 801, Total Timesteps: 318612, Episode Reward: 493.65
+Episode: 802, Total Timesteps: 319612, Episode Reward: 2519.00
+Episode: 803, Total Timesteps: 319760, Episode Reward: 309.58
+Episode: 804, Total Timesteps: 320760, Episode Reward: 1142.33
+---------------------------------------
+Average Reward over the Evaluation Step: 1214.114596
+---------------------------------------
+Episode: 805, Total Timesteps: 321341, Episode Reward: 1457.62
+Episode: 806, Total Timesteps: 321858, Episode Reward: 1312.65
+Episode: 807, Total Timesteps: 322364, Episode Reward: 1108.61
+Episode: 808, Total Timesteps: 323289, Episode Reward: 2342.54
+Episode: 809, Total Timesteps: 323503, Episode Reward: 523.55
+Episode: 810, Total Timesteps: 323604, Episode Reward: 235.32
+Episode: 811, Total Timesteps: 323793, Episode Reward: 459.57
+Episode: 812, Total Timesteps: 323891, Episode Reward: 227.16
+Episode: 813, Total Timesteps: 323926, Episode Reward: 68.22
+Episode: 814, Total Timesteps: 323978, Episode Reward: 100.20
+Episode: 815, Total Timesteps: 324360, Episode Reward: 920.99
+Episode: 816, Total Timesteps: 325358, Episode Reward: 2505.25
+---------------------------------------
+Average Reward over the Evaluation Step: 951.839876
+---------------------------------------
+Episode: 817, Total Timesteps: 325461, Episode Reward: 186.59
+Episode: 818, Total Timesteps: 326073, Episode Reward: 1331.78
+Episode: 819, Total Timesteps: 326717, Episode Reward: 1525.18
+Episode: 820, Total Timesteps: 327331, Episode Reward: 1511.78
+Episode: 821, Total Timesteps: 327368, Episode Reward: 76.61
+Episode: 822, Total Timesteps: 328368, Episode Reward: 557.97
+Episode: 823, Total Timesteps: 328834, Episode Reward: 1273.72
+Episode: 824, Total Timesteps: 329336, Episode Reward: 1374.61
+Episode: 825, Total Timesteps: 329539, Episode Reward: 516.52
+Episode: 826, Total Timesteps: 329935, Episode Reward: 1082.53
+Episode: 827, Total Timesteps: 330084, Episode Reward: 329.24
+---------------------------------------
+Average Reward over the Evaluation Step: 988.969639
+---------------------------------------
+Episode: 828, Total Timesteps: 330711, Episode Reward: 1595.77
+Episode: 829, Total Timesteps: 330837, Episode Reward: 317.45
+Episode: 830, Total Timesteps: 331011, Episode Reward: 391.36
+Episode: 831, Total Timesteps: 331050, Episode Reward: 55.30
+Episode: 832, Total Timesteps: 332050, Episode Reward: 2690.53
+Episode: 833, Total Timesteps: 332931, Episode Reward: 2263.71
+Episode: 834, Total Timesteps: 333102, Episode Reward: 413.11
+Episode: 835, Total Timesteps: 333344, Episode Reward: 528.52
+Episode: 836, Total Timesteps: 334304, Episode Reward: 2492.78
+Episode: 837, Total Timesteps: 334918, Episode Reward: 1619.56
+Episode: 838, Total Timesteps: 335096, Episode Reward: 426.33
+---------------------------------------
+Average Reward over the Evaluation Step: 2086.804437
+---------------------------------------
+Episode: 839, Total Timesteps: 335341, Episode Reward: 575.34
+Episode: 840, Total Timesteps: 335868, Episode Reward: 1304.20
+Episode: 841, Total Timesteps: 336008, Episode Reward: 341.76
+Episode: 842, Total Timesteps: 336152, Episode Reward: 33.90
+Episode: 843, Total Timesteps: 337152, Episode Reward: 1392.96
+Episode: 844, Total Timesteps: 338152, Episode Reward: 2602.21
+Episode: 845, Total Timesteps: 338701, Episode Reward: 1360.29
+Episode: 846, Total Timesteps: 338829, Episode Reward: 354.69
+Episode: 847, Total Timesteps: 339632, Episode Reward: 2080.00
+Episode: 848, Total Timesteps: 339712, Episode Reward: 195.46
+Episode: 849, Total Timesteps: 339839, Episode Reward: 291.83
+Episode: 850, Total Timesteps: 339954, Episode Reward: 238.35
+Episode: 851, Total Timesteps: 340004, Episode Reward: 110.99
+---------------------------------------
+Average Reward over the Evaluation Step: 1066.575337
+---------------------------------------
+Episode: 852, Total Timesteps: 341004, Episode Reward: 2784.33
+Episode: 853, Total Timesteps: 341043, Episode Reward: 92.06
+Episode: 854, Total Timesteps: 341064, Episode Reward: 29.56
+Episode: 855, Total Timesteps: 341288, Episode Reward: 574.24
+Episode: 856, Total Timesteps: 341363, Episode Reward: 189.98
+Episode: 857, Total Timesteps: 341493, Episode Reward: 207.22
+Episode: 858, Total Timesteps: 341611, Episode Reward: 305.41
+Episode: 859, Total Timesteps: 341722, Episode Reward: 276.06
+Episode: 860, Total Timesteps: 341750, Episode Reward: 50.64
+Episode: 861, Total Timesteps: 341806, Episode Reward: 121.75
+Episode: 862, Total Timesteps: 342475, Episode Reward: 1714.01
+Episode: 863, Total Timesteps: 342544, Episode Reward: 128.52
+Episode: 864, Total Timesteps: 342713, Episode Reward: 414.14
+Episode: 865, Total Timesteps: 342739, Episode Reward: 48.99
+Episode: 866, Total Timesteps: 342826, Episode Reward: 211.15
+Episode: 867, Total Timesteps: 343078, Episode Reward: 642.75
+Episode: 868, Total Timesteps: 343164, Episode Reward: 231.63
+Episode: 869, Total Timesteps: 343267, Episode Reward: 255.18
+Episode: 870, Total Timesteps: 343421, Episode Reward: 384.93
+Episode: 871, Total Timesteps: 343761, Episode Reward: 782.35
+Episode: 872, Total Timesteps: 343962, Episode Reward: 532.84
+Episode: 873, Total Timesteps: 344137, Episode Reward: 451.86
+Episode: 874, Total Timesteps: 344386, Episode Reward: 692.35
+Episode: 875, Total Timesteps: 344409, Episode Reward: 35.19
+Episode: 876, Total Timesteps: 344665, Episode Reward: 650.67
+Episode: 877, Total Timesteps: 345665, Episode Reward: 2649.89
+---------------------------------------
+Average Reward over the Evaluation Step: 950.529065
+---------------------------------------
+Episode: 878, Total Timesteps: 345873, Episode Reward: 450.03
+Episode: 879, Total Timesteps: 346299, Episode Reward: 1062.36
+Episode: 880, Total Timesteps: 346684, Episode Reward: 905.85
+Episode: 881, Total Timesteps: 347173, Episode Reward: 1293.80
+Episode: 882, Total Timesteps: 347279, Episode Reward: 224.27
+Episode: 883, Total Timesteps: 347392, Episode Reward: 316.41
+Episode: 884, Total Timesteps: 348392, Episode Reward: 2522.49
+Episode: 885, Total Timesteps: 349392, Episode Reward: 872.31
+Episode: 886, Total Timesteps: 350379, Episode Reward: 2664.05
+---------------------------------------
+Average Reward over the Evaluation Step: 461.822355
+---------------------------------------
+Episode: 887, Total Timesteps: 350415, Episode Reward: 67.30
+Episode: 888, Total Timesteps: 350446, Episode Reward: 43.45
+Episode: 889, Total Timesteps: 350637, Episode Reward: 516.18
+Episode: 890, Total Timesteps: 351181, Episode Reward: 1448.42
+Episode: 891, Total Timesteps: 351272, Episode Reward: 154.81
+Episode: 892, Total Timesteps: 351383, Episode Reward: 213.79
+Episode: 893, Total Timesteps: 351526, Episode Reward: 321.00
+Episode: 894, Total Timesteps: 351941, Episode Reward: 1107.03
+Episode: 895, Total Timesteps: 351991, Episode Reward: 95.38
+Episode: 896, Total Timesteps: 352991, Episode Reward: 670.26
+Episode: 897, Total Timesteps: 353074, Episode Reward: 199.08
+Episode: 898, Total Timesteps: 353972, Episode Reward: 2160.75
+Episode: 899, Total Timesteps: 354792, Episode Reward: 2264.16
+Episode: 900, Total Timesteps: 355792, Episode Reward: 1354.16
+---------------------------------------
+Average Reward over the Evaluation Step: 1296.180537
+---------------------------------------
+Episode: 901, Total Timesteps: 355818, Episode Reward: 40.14
+Episode: 902, Total Timesteps: 356136, Episode Reward: 767.30
+Episode: 903, Total Timesteps: 356549, Episode Reward: 997.14
+Episode: 904, Total Timesteps: 356939, Episode Reward: 1009.37
+Episode: 905, Total Timesteps: 357939, Episode Reward: 772.64
+Episode: 906, Total Timesteps: 358415, Episode Reward: 1158.02
+Episode: 907, Total Timesteps: 359324, Episode Reward: 2488.81
+Episode: 908, Total Timesteps: 360322, Episode Reward: 2762.37
+---------------------------------------
+Average Reward over the Evaluation Step: 1881.384690
+---------------------------------------
+Episode: 909, Total Timesteps: 360848, Episode Reward: 1368.21
+Episode: 910, Total Timesteps: 361848, Episode Reward: 1711.82
+Episode: 911, Total Timesteps: 361901, Episode Reward: 119.70
+Episode: 912, Total Timesteps: 362026, Episode Reward: 339.56
+Episode: 913, Total Timesteps: 363026, Episode Reward: 2721.23
+Episode: 914, Total Timesteps: 363526, Episode Reward: 1280.42
+Episode: 915, Total Timesteps: 364000, Episode Reward: 1093.83
+Episode: 916, Total Timesteps: 365000, Episode Reward: 1150.63
+Episode: 917, Total Timesteps: 365546, Episode Reward: 1494.73
+---------------------------------------
+Average Reward over the Evaluation Step: 437.017237
+---------------------------------------
+Episode: 918, Total Timesteps: 366546, Episode Reward: -71.34
+Episode: 919, Total Timesteps: 366631, Episode Reward: 213.73
+Episode: 920, Total Timesteps: 366790, Episode Reward: 337.24
+Episode: 921, Total Timesteps: 367274, Episode Reward: 1392.06
+Episode: 922, Total Timesteps: 367337, Episode Reward: 116.61
+Episode: 923, Total Timesteps: 367393, Episode Reward: 122.26
+Episode: 924, Total Timesteps: 367439, Episode Reward: 86.29
+Episode: 925, Total Timesteps: 368154, Episode Reward: 1914.90
+Episode: 926, Total Timesteps: 368699, Episode Reward: 1519.09
+Episode: 927, Total Timesteps: 369085, Episode Reward: 1021.09
+Episode: 928, Total Timesteps: 369647, Episode Reward: 1496.61
+Episode: 929, Total Timesteps: 369817, Episode Reward: 387.03
+Episode: 930, Total Timesteps: 370207, Episode Reward: 1067.07
+---------------------------------------
+Average Reward over the Evaluation Step: 1117.570661
+---------------------------------------
+Episode: 931, Total Timesteps: 370579, Episode Reward: 1014.01
+Episode: 932, Total Timesteps: 370596, Episode Reward: 15.45
+Episode: 933, Total Timesteps: 370735, Episode Reward: 319.49
+Episode: 934, Total Timesteps: 370980, Episode Reward: 635.69
+Episode: 935, Total Timesteps: 371408, Episode Reward: 1195.13
+Episode: 936, Total Timesteps: 371656, Episode Reward: 687.36
+Episode: 937, Total Timesteps: 372656, Episode Reward: 2694.64
+Episode: 938, Total Timesteps: 373560, Episode Reward: 2350.98
+Episode: 939, Total Timesteps: 374517, Episode Reward: 2597.58
+Episode: 940, Total Timesteps: 374613, Episode Reward: 251.40
+Episode: 941, Total Timesteps: 374765, Episode Reward: 342.98
+Episode: 942, Total Timesteps: 375391, Episode Reward: 1645.55
+---------------------------------------
+Average Reward over the Evaluation Step: 629.115384
+---------------------------------------
+Episode: 943, Total Timesteps: 375438, Episode Reward: 98.37
+Episode: 944, Total Timesteps: 375462, Episode Reward: 24.30
+Episode: 945, Total Timesteps: 375607, Episode Reward: 342.69
+Episode: 946, Total Timesteps: 375980, Episode Reward: 988.82
+Episode: 947, Total Timesteps: 376088, Episode Reward: 254.65
+Episode: 948, Total Timesteps: 376180, Episode Reward: 203.81
+Episode: 949, Total Timesteps: 376484, Episode Reward: 881.44
+Episode: 950, Total Timesteps: 377484, Episode Reward: 2726.51
+Episode: 951, Total Timesteps: 378428, Episode Reward: 2491.52
+Episode: 952, Total Timesteps: 379027, Episode Reward: 1697.03
+Episode: 953, Total Timesteps: 379334, Episode Reward: 717.86
+Episode: 954, Total Timesteps: 379677, Episode Reward: 933.51
+Episode: 955, Total Timesteps: 379714, Episode Reward: 71.62
+Episode: 956, Total Timesteps: 379739, Episode Reward: 51.09
+Episode: 957, Total Timesteps: 380221, Episode Reward: 1356.92
+---------------------------------------
+Average Reward over the Evaluation Step: 602.310697
+---------------------------------------
+Episode: 958, Total Timesteps: 380332, Episode Reward: 301.86
+Episode: 959, Total Timesteps: 381142, Episode Reward: 2272.59
+Episode: 960, Total Timesteps: 381171, Episode Reward: 58.88
+Episode: 961, Total Timesteps: 381242, Episode Reward: 187.26
+Episode: 962, Total Timesteps: 381339, Episode Reward: 240.20
+Episode: 963, Total Timesteps: 382339, Episode Reward: 2473.65
+Episode: 964, Total Timesteps: 383316, Episode Reward: 2707.76
+Episode: 965, Total Timesteps: 383632, Episode Reward: 918.51
+Episode: 966, Total Timesteps: 384632, Episode Reward: 1764.18
+Episode: 967, Total Timesteps: 385632, Episode Reward: 2702.15
+---------------------------------------
+Average Reward over the Evaluation Step: 1184.926921
+---------------------------------------
+Episode: 968, Total Timesteps: 386632, Episode Reward: 2752.37
+Episode: 969, Total Timesteps: 386736, Episode Reward: 275.81
+Episode: 970, Total Timesteps: 386886, Episode Reward: 382.78
+Episode: 971, Total Timesteps: 387108, Episode Reward: 583.43
+Episode: 972, Total Timesteps: 387171, Episode Reward: 151.43
+Episode: 973, Total Timesteps: 387288, Episode Reward: 289.56
+Episode: 974, Total Timesteps: 387471, Episode Reward: 504.14
+Episode: 975, Total Timesteps: 387756, Episode Reward: 825.42
+Episode: 976, Total Timesteps: 387989, Episode Reward: 602.06
+Episode: 977, Total Timesteps: 388989, Episode Reward: 48.54
+Episode: 978, Total Timesteps: 389989, Episode Reward: 2919.20
+Episode: 979, Total Timesteps: 390059, Episode Reward: 168.71
+---------------------------------------
+Average Reward over the Evaluation Step: 1192.931711
+---------------------------------------
+Episode: 980, Total Timesteps: 390435, Episode Reward: 1043.08
+Episode: 981, Total Timesteps: 391435, Episode Reward: 2458.17
+Episode: 982, Total Timesteps: 391743, Episode Reward: 810.08
+Episode: 983, Total Timesteps: 391995, Episode Reward: 635.46
+Episode: 984, Total Timesteps: 392388, Episode Reward: 987.27
+Episode: 985, Total Timesteps: 392732, Episode Reward: 1000.03
+Episode: 986, Total Timesteps: 393665, Episode Reward: 2578.72
+Episode: 987, Total Timesteps: 394437, Episode Reward: 2125.42
+Episode: 988, Total Timesteps: 394758, Episode Reward: 848.19
+Episode: 989, Total Timesteps: 394776, Episode Reward: 13.28
+Episode: 990, Total Timesteps: 395206, Episode Reward: 1153.41
+---------------------------------------
+Average Reward over the Evaluation Step: 1836.261169
+---------------------------------------
+Episode: 991, Total Timesteps: 396206, Episode Reward: 2290.67
+Episode: 992, Total Timesteps: 396709, Episode Reward: 1279.94
+Episode: 993, Total Timesteps: 396833, Episode Reward: 285.97
+Episode: 994, Total Timesteps: 397833, Episode Reward: 1218.08
+Episode: 995, Total Timesteps: 398055, Episode Reward: 591.48
+Episode: 996, Total Timesteps: 398090, Episode Reward: 44.77
+Episode: 997, Total Timesteps: 398249, Episode Reward: 441.66
+Episode: 998, Total Timesteps: 398347, Episode Reward: 252.62
+Episode: 999, Total Timesteps: 398659, Episode Reward: 886.25
+Episode: 1000, Total Timesteps: 399659, Episode Reward: 2916.01
+Episode: 1001, Total Timesteps: 399930, Episode Reward: 768.16
+Episode: 1002, Total Timesteps: 400017, Episode Reward: 213.19
+---------------------------------------
+Average Reward over the Evaluation Step: 661.601584
+---------------------------------------
+Episode: 1003, Total Timesteps: 400275, Episode Reward: 676.82
+Episode: 1004, Total Timesteps: 400735, Episode Reward: 1167.30
+Episode: 1005, Total Timesteps: 400928, Episode Reward: 439.75
+Episode: 1006, Total Timesteps: 401174, Episode Reward: 705.61
+Episode: 1007, Total Timesteps: 402174, Episode Reward: 2961.83
+Episode: 1008, Total Timesteps: 402586, Episode Reward: 1113.15
+Episode: 1009, Total Timesteps: 403259, Episode Reward: 1852.38
+Episode: 1010, Total Timesteps: 403515, Episode Reward: 689.90
+Episode: 1011, Total Timesteps: 404515, Episode Reward: 102.61
+Episode: 1012, Total Timesteps: 405046, Episode Reward: 1369.48
+---------------------------------------
+Average Reward over the Evaluation Step: 1026.959400
+---------------------------------------
+Episode: 1013, Total Timesteps: 405353, Episode Reward: 895.13
+Episode: 1014, Total Timesteps: 405458, Episode Reward: 218.30
+Episode: 1015, Total Timesteps: 406397, Episode Reward: 2746.80
+Episode: 1016, Total Timesteps: 407397, Episode Reward: 2806.59
+Episode: 1017, Total Timesteps: 407599, Episode Reward: 544.92
+Episode: 1018, Total Timesteps: 407818, Episode Reward: 601.94
+Episode: 1019, Total Timesteps: 408405, Episode Reward: 1614.27
+Episode: 1020, Total Timesteps: 409149, Episode Reward: 1979.61
+Episode: 1021, Total Timesteps: 410149, Episode Reward: 1902.21
+---------------------------------------
+Average Reward over the Evaluation Step: 1344.408468
+---------------------------------------
+Episode: 1022, Total Timesteps: 410730, Episode Reward: 1710.04
+Episode: 1023, Total Timesteps: 410998, Episode Reward: 706.42
+Episode: 1024, Total Timesteps: 411365, Episode Reward: 985.72
+Episode: 1025, Total Timesteps: 411519, Episode Reward: 392.92
+Episode: 1026, Total Timesteps: 412519, Episode Reward: 2823.41
+Episode: 1027, Total Timesteps: 413019, Episode Reward: 1447.82
+Episode: 1028, Total Timesteps: 413442, Episode Reward: 1267.35
+Episode: 1029, Total Timesteps: 413996, Episode Reward: 1664.20
+Episode: 1030, Total Timesteps: 414815, Episode Reward: 2309.73
+Episode: 1031, Total Timesteps: 415815, Episode Reward: -73.81
+---------------------------------------
+Average Reward over the Evaluation Step: 885.604940
+---------------------------------------
+Episode: 1032, Total Timesteps: 415894, Episode Reward: 187.14
+Episode: 1033, Total Timesteps: 415953, Episode Reward: 157.64
+Episode: 1034, Total Timesteps: 416953, Episode Reward: 1730.34
+Episode: 1035, Total Timesteps: 417078, Episode Reward: 344.04
+Episode: 1036, Total Timesteps: 418078, Episode Reward: 683.84
+Episode: 1037, Total Timesteps: 418555, Episode Reward: 1267.54
+Episode: 1038, Total Timesteps: 419555, Episode Reward: 1266.11
+Episode: 1039, Total Timesteps: 420364, Episode Reward: 2288.48
+---------------------------------------
+Average Reward over the Evaluation Step: 441.783986
+---------------------------------------
+Episode: 1040, Total Timesteps: 420418, Episode Reward: 100.25
+Episode: 1041, Total Timesteps: 421418, Episode Reward: 2758.55
+Episode: 1042, Total Timesteps: 421479, Episode Reward: 133.54
+Episode: 1043, Total Timesteps: 421956, Episode Reward: 1451.13
+Episode: 1044, Total Timesteps: 422106, Episode Reward: 405.57
+Episode: 1045, Total Timesteps: 422374, Episode Reward: 693.76
+Episode: 1046, Total Timesteps: 422966, Episode Reward: 1490.99
+Episode: 1047, Total Timesteps: 423285, Episode Reward: 851.63
+Episode: 1048, Total Timesteps: 423960, Episode Reward: 1878.29
+Episode: 1049, Total Timesteps: 423982, Episode Reward: 52.33
+Episode: 1050, Total Timesteps: 424982, Episode Reward: 1300.30
+Episode: 1051, Total Timesteps: 425259, Episode Reward: 778.34
+---------------------------------------
+Average Reward over the Evaluation Step: 651.807244
+---------------------------------------
+Episode: 1052, Total Timesteps: 425440, Episode Reward: 518.28
+Episode: 1053, Total Timesteps: 426051, Episode Reward: 1789.13
+Episode: 1054, Total Timesteps: 426183, Episode Reward: 375.18
+Episode: 1055, Total Timesteps: 426202, Episode Reward: 33.06
+Episode: 1056, Total Timesteps: 426235, Episode Reward: 55.47
+Episode: 1057, Total Timesteps: 426528, Episode Reward: 810.48
+Episode: 1058, Total Timesteps: 426698, Episode Reward: 540.07
+Episode: 1059, Total Timesteps: 426810, Episode Reward: 306.37
+Episode: 1060, Total Timesteps: 426976, Episode Reward: 430.05
+Episode: 1061, Total Timesteps: 427976, Episode Reward: 822.41
+Episode: 1062, Total Timesteps: 428976, Episode Reward: 843.31
+Episode: 1063, Total Timesteps: 429976, Episode Reward: 3123.72
+Episode: 1064, Total Timesteps: 430110, Episode Reward: 342.47
+---------------------------------------
+Average Reward over the Evaluation Step: 1264.871115
+---------------------------------------
+Episode: 1065, Total Timesteps: 431110, Episode Reward: 1128.34
+Episode: 1066, Total Timesteps: 431992, Episode Reward: 2481.95
+Episode: 1067, Total Timesteps: 432992, Episode Reward: 604.30
+Episode: 1068, Total Timesteps: 433010, Episode Reward: 30.78
+Episode: 1069, Total Timesteps: 433313, Episode Reward: 888.46
+Episode: 1070, Total Timesteps: 434056, Episode Reward: 2108.71
+Episode: 1071, Total Timesteps: 434473, Episode Reward: 1182.71
+Episode: 1072, Total Timesteps: 434757, Episode Reward: 854.90
+Episode: 1073, Total Timesteps: 435241, Episode Reward: 1455.14
+---------------------------------------
+Average Reward over the Evaluation Step: 1389.931723
+---------------------------------------
+Episode: 1074, Total Timesteps: 435484, Episode Reward: 736.63
+Episode: 1075, Total Timesteps: 435549, Episode Reward: 179.85
+Episode: 1076, Total Timesteps: 435873, Episode Reward: 934.77
+Episode: 1077, Total Timesteps: 436873, Episode Reward: 2718.13
+Episode: 1078, Total Timesteps: 437199, Episode Reward: 970.56
+Episode: 1079, Total Timesteps: 438199, Episode Reward: 689.26
+Episode: 1080, Total Timesteps: 438355, Episode Reward: 392.32
+Episode: 1081, Total Timesteps: 438425, Episode Reward: 181.66
+Episode: 1082, Total Timesteps: 439010, Episode Reward: 1725.04
+Episode: 1083, Total Timesteps: 440010, Episode Reward: 2851.24
+---------------------------------------
+Average Reward over the Evaluation Step: 1548.538353
+---------------------------------------
+Episode: 1084, Total Timesteps: 440070, Episode Reward: 126.26
+Episode: 1085, Total Timesteps: 440209, Episode Reward: 413.55
+Episode: 1086, Total Timesteps: 440261, Episode Reward: 114.31
+Episode: 1087, Total Timesteps: 440586, Episode Reward: 962.99
+Episode: 1088, Total Timesteps: 440774, Episode Reward: 479.63
+Episode: 1089, Total Timesteps: 441174, Episode Reward: 1219.18
+Episode: 1090, Total Timesteps: 441617, Episode Reward: 1370.92
+Episode: 1091, Total Timesteps: 441759, Episode Reward: 371.72
+Episode: 1092, Total Timesteps: 441786, Episode Reward: 44.55
+Episode: 1093, Total Timesteps: 442518, Episode Reward: 2104.45
+Episode: 1094, Total Timesteps: 442857, Episode Reward: 945.90
+Episode: 1095, Total Timesteps: 443857, Episode Reward: 1802.54
+Episode: 1096, Total Timesteps: 444857, Episode Reward: 2740.83
+Episode: 1097, Total Timesteps: 445056, Episode Reward: 551.70
+---------------------------------------
+Average Reward over the Evaluation Step: 1140.736306
+---------------------------------------
+Episode: 1098, Total Timesteps: 446056, Episode Reward: 1020.35
+Episode: 1099, Total Timesteps: 446969, Episode Reward: 2732.21
+Episode: 1100, Total Timesteps: 447574, Episode Reward: 1633.64
+Episode: 1101, Total Timesteps: 447853, Episode Reward: 771.10
+Episode: 1102, Total Timesteps: 448184, Episode Reward: 958.34
+Episode: 1103, Total Timesteps: 448194, Episode Reward: -2.26
+Episode: 1104, Total Timesteps: 448702, Episode Reward: 1449.70
+Episode: 1105, Total Timesteps: 449082, Episode Reward: 982.80
+Episode: 1106, Total Timesteps: 449099, Episode Reward: 33.33
+Episode: 1107, Total Timesteps: 449466, Episode Reward: 897.18
+Episode: 1108, Total Timesteps: 449839, Episode Reward: 1068.17
+Episode: 1109, Total Timesteps: 450839, Episode Reward: 2884.81
+---------------------------------------
+Average Reward over the Evaluation Step: 524.020219
+---------------------------------------
+Episode: 1110, Total Timesteps: 451839, Episode Reward: 839.51
+Episode: 1111, Total Timesteps: 452402, Episode Reward: 1598.97
+Episode: 1112, Total Timesteps: 453402, Episode Reward: 2755.30
+Episode: 1113, Total Timesteps: 453595, Episode Reward: 544.18
+Episode: 1114, Total Timesteps: 454595, Episode Reward: 885.72
+Episode: 1115, Total Timesteps: 454744, Episode Reward: 351.51
+Episode: 1116, Total Timesteps: 454813, Episode Reward: 145.06
+Episode: 1117, Total Timesteps: 454838, Episode Reward: 62.23
+Episode: 1118, Total Timesteps: 455500, Episode Reward: 1911.74
+---------------------------------------
+Average Reward over the Evaluation Step: 1030.934626
+---------------------------------------
+Episode: 1119, Total Timesteps: 455662, Episode Reward: 422.52
+Episode: 1120, Total Timesteps: 455827, Episode Reward: 441.21
+Episode: 1121, Total Timesteps: 456147, Episode Reward: 838.52
+Episode: 1122, Total Timesteps: 456254, Episode Reward: 273.68
+Episode: 1123, Total Timesteps: 456505, Episode Reward: 739.58
+Episode: 1124, Total Timesteps: 457235, Episode Reward: 2155.79
+Episode: 1125, Total Timesteps: 457491, Episode Reward: 737.42
+Episode: 1126, Total Timesteps: 458491, Episode Reward: 2716.08
+Episode: 1127, Total Timesteps: 458725, Episode Reward: 602.02
+Episode: 1128, Total Timesteps: 458942, Episode Reward: 577.61
+Episode: 1129, Total Timesteps: 459544, Episode Reward: 1689.04
+Episode: 1130, Total Timesteps: 459620, Episode Reward: 231.33
+Episode: 1131, Total Timesteps: 460620, Episode Reward: 2956.34
+---------------------------------------
+Average Reward over the Evaluation Step: 1439.128907
+---------------------------------------
+Episode: 1132, Total Timesteps: 461514, Episode Reward: 2483.12
+Episode: 1133, Total Timesteps: 461577, Episode Reward: 172.50
+Episode: 1134, Total Timesteps: 461609, Episode Reward: 82.51
+Episode: 1135, Total Timesteps: 461625, Episode Reward: 27.26
+Episode: 1136, Total Timesteps: 462274, Episode Reward: 1820.82
+Episode: 1137, Total Timesteps: 462396, Episode Reward: 281.96
+Episode: 1138, Total Timesteps: 463169, Episode Reward: 2177.88
+Episode: 1139, Total Timesteps: 464169, Episode Reward: 1602.89
+Episode: 1140, Total Timesteps: 464379, Episode Reward: 629.70
+Episode: 1141, Total Timesteps: 464735, Episode Reward: 993.68
+Episode: 1142, Total Timesteps: 464792, Episode Reward: 132.30
+Episode: 1143, Total Timesteps: 465412, Episode Reward: 1722.06
+---------------------------------------
+Average Reward over the Evaluation Step: 442.810537
+---------------------------------------
+Episode: 1144, Total Timesteps: 466412, Episode Reward: 2945.03
+Episode: 1145, Total Timesteps: 467412, Episode Reward: 2876.29
+Episode: 1146, Total Timesteps: 467645, Episode Reward: 648.25
+Episode: 1147, Total Timesteps: 467944, Episode Reward: 884.68
+Episode: 1148, Total Timesteps: 468611, Episode Reward: 1843.97
+Episode: 1149, Total Timesteps: 468959, Episode Reward: 977.11
+Episode: 1150, Total Timesteps: 469959, Episode Reward: 2941.34
+Episode: 1151, Total Timesteps: 470523, Episode Reward: 1671.06
+---------------------------------------
+Average Reward over the Evaluation Step: 491.827337
+---------------------------------------
+Episode: 1152, Total Timesteps: 470733, Episode Reward: 604.46
+Episode: 1153, Total Timesteps: 470761, Episode Reward: 45.76
+Episode: 1154, Total Timesteps: 471118, Episode Reward: 926.94
+Episode: 1155, Total Timesteps: 471584, Episode Reward: 1377.29
+Episode: 1156, Total Timesteps: 471952, Episode Reward: 968.90
+Episode: 1157, Total Timesteps: 472229, Episode Reward: 829.15
+Episode: 1158, Total Timesteps: 472995, Episode Reward: 2315.22
+Episode: 1159, Total Timesteps: 473030, Episode Reward: 75.01
+Episode: 1160, Total Timesteps: 473156, Episode Reward: 366.49
+Episode: 1161, Total Timesteps: 473369, Episode Reward: 517.72
+Episode: 1162, Total Timesteps: 473908, Episode Reward: 1545.93
+Episode: 1163, Total Timesteps: 474303, Episode Reward: 1084.63
+Episode: 1164, Total Timesteps: 474340, Episode Reward: 74.23
+Episode: 1165, Total Timesteps: 474479, Episode Reward: 368.84
+Episode: 1166, Total Timesteps: 474690, Episode Reward: 602.98
+Episode: 1167, Total Timesteps: 474727, Episode Reward: 65.81
+Episode: 1168, Total Timesteps: 474779, Episode Reward: 165.56
+Episode: 1169, Total Timesteps: 475779, Episode Reward: 2719.60
+---------------------------------------
+Average Reward over the Evaluation Step: 1565.501019
+---------------------------------------
+Episode: 1170, Total Timesteps: 475893, Episode Reward: 315.82
+Episode: 1171, Total Timesteps: 476117, Episode Reward: 676.63
+Episode: 1172, Total Timesteps: 476747, Episode Reward: 1853.95
+Episode: 1173, Total Timesteps: 477010, Episode Reward: 776.92
+Episode: 1174, Total Timesteps: 478010, Episode Reward: 636.13
+Episode: 1175, Total Timesteps: 478314, Episode Reward: 868.35
+Episode: 1176, Total Timesteps: 478693, Episode Reward: 995.29
+Episode: 1177, Total Timesteps: 479293, Episode Reward: 1742.67
+Episode: 1178, Total Timesteps: 480293, Episode Reward: 2967.53
+---------------------------------------
+Average Reward over the Evaluation Step: 2194.414817
+---------------------------------------
+Episode: 1179, Total Timesteps: 480594, Episode Reward: 822.10
+Episode: 1180, Total Timesteps: 481415, Episode Reward: 2468.57
+Episode: 1181, Total Timesteps: 482070, Episode Reward: 1982.49
+Episode: 1182, Total Timesteps: 483070, Episode Reward: -246.47
+Episode: 1183, Total Timesteps: 483496, Episode Reward: 1172.09
+Episode: 1184, Total Timesteps: 483597, Episode Reward: 220.66
+Episode: 1185, Total Timesteps: 483740, Episode Reward: 363.24
+Episode: 1186, Total Timesteps: 484126, Episode Reward: 1140.77
+Episode: 1187, Total Timesteps: 484714, Episode Reward: 1828.97
+Episode: 1188, Total Timesteps: 485242, Episode Reward: 1505.53
+---------------------------------------
+Average Reward over the Evaluation Step: 1427.309879
+---------------------------------------
+Episode: 1189, Total Timesteps: 485454, Episode Reward: 658.26
+Episode: 1190, Total Timesteps: 485496, Episode Reward: 104.82
+Episode: 1191, Total Timesteps: 485629, Episode Reward: 408.16
+Episode: 1192, Total Timesteps: 486127, Episode Reward: 1395.40
+Episode: 1193, Total Timesteps: 486311, Episode Reward: 559.42
+Episode: 1194, Total Timesteps: 486645, Episode Reward: 988.71
+Episode: 1195, Total Timesteps: 486684, Episode Reward: 106.98
+Episode: 1196, Total Timesteps: 486829, Episode Reward: 378.81
+Episode: 1197, Total Timesteps: 487311, Episode Reward: 1344.95
+Episode: 1198, Total Timesteps: 487554, Episode Reward: 713.95
+Episode: 1199, Total Timesteps: 488292, Episode Reward: 2112.55
+Episode: 1200, Total Timesteps: 488565, Episode Reward: 789.48
+Episode: 1201, Total Timesteps: 488714, Episode Reward: 452.65
+Episode: 1202, Total Timesteps: 488886, Episode Reward: 452.00
+Episode: 1203, Total Timesteps: 489016, Episode Reward: 318.73
+Episode: 1204, Total Timesteps: 490016, Episode Reward: 475.60
+---------------------------------------
+Average Reward over the Evaluation Step: 449.549830
+---------------------------------------
+Episode: 1205, Total Timesteps: 490028, Episode Reward: 0.69
+Episode: 1206, Total Timesteps: 490064, Episode Reward: 82.76
+Episode: 1207, Total Timesteps: 490124, Episode Reward: 152.21
+Episode: 1208, Total Timesteps: 490138, Episode Reward: 22.57
+Episode: 1209, Total Timesteps: 490212, Episode Reward: 227.50
+Episode: 1210, Total Timesteps: 490335, Episode Reward: 359.69
+Episode: 1211, Total Timesteps: 490476, Episode Reward: 264.22
+Episode: 1212, Total Timesteps: 490857, Episode Reward: 1166.18
+Episode: 1213, Total Timesteps: 490955, Episode Reward: 284.49
+Episode: 1214, Total Timesteps: 491158, Episode Reward: 668.84
+Episode: 1215, Total Timesteps: 491831, Episode Reward: 2052.94
+Episode: 1216, Total Timesteps: 492184, Episode Reward: 1002.17
+Episode: 1217, Total Timesteps: 492261, Episode Reward: 213.56
+Episode: 1218, Total Timesteps: 492284, Episode Reward: 34.18
+Episode: 1219, Total Timesteps: 492354, Episode Reward: 198.78
+Episode: 1220, Total Timesteps: 492445, Episode Reward: 257.76
+Episode: 1221, Total Timesteps: 493445, Episode Reward: 1256.95
+Episode: 1222, Total Timesteps: 493676, Episode Reward: 736.53
+Episode: 1223, Total Timesteps: 493708, Episode Reward: 86.29
+Episode: 1224, Total Timesteps: 494708, Episode Reward: 1385.26
+Episode: 1225, Total Timesteps: 494758, Episode Reward: 124.47
+Episode: 1226, Total Timesteps: 494925, Episode Reward: 407.93
+Episode: 1227, Total Timesteps: 495251, Episode Reward: 876.52
+---------------------------------------
+Average Reward over the Evaluation Step: 685.498546
+---------------------------------------
+Episode: 1228, Total Timesteps: 495322, Episode Reward: 187.91
+Episode: 1229, Total Timesteps: 495617, Episode Reward: 840.25
+Episode: 1230, Total Timesteps: 495795, Episode Reward: 542.88
+Episode: 1231, Total Timesteps: 496014, Episode Reward: 639.56
+Episode: 1232, Total Timesteps: 496711, Episode Reward: 1968.31
+Episode: 1233, Total Timesteps: 496757, Episode Reward: 110.58
+Episode: 1234, Total Timesteps: 496786, Episode Reward: 29.93
+Episode: 1235, Total Timesteps: 496807, Episode Reward: 46.31
+Episode: 1236, Total Timesteps: 497807, Episode Reward: 483.18
+Episode: 1237, Total Timesteps: 498082, Episode Reward: 813.21
+Episode: 1238, Total Timesteps: 498135, Episode Reward: 111.80
+Episode: 1239, Total Timesteps: 499135, Episode Reward: 1636.31
+Episode: 1240, Total Timesteps: 499474, Episode Reward: 861.25
+Episode: 1241, Total Timesteps: 500062, Episode Reward: 1705.47
+---------------------------------------
+Average Reward over the Evaluation Step: 994.057142
+---------------------------------------
+Episode: 1242, Total Timesteps: 500198, Episode Reward: 334.44
+Episode: 1243, Total Timesteps: 500232, Episode Reward: 53.20
+Episode: 1244, Total Timesteps: 500751, Episode Reward: 1464.89
+Episode: 1245, Total Timesteps: 501041, Episode Reward: 839.87
+Episode: 1246, Total Timesteps: 502041, Episode Reward: 566.85
+Episode: 1247, Total Timesteps: 502102, Episode Reward: 172.90
+Episode: 1248, Total Timesteps: 502174, Episode Reward: 191.87
+Episode: 1249, Total Timesteps: 502905, Episode Reward: 2152.17
+Episode: 1250, Total Timesteps: 503009, Episode Reward: 270.92
+Episode: 1251, Total Timesteps: 503238, Episode Reward: 702.85
+Episode: 1252, Total Timesteps: 503391, Episode Reward: 469.96
+Episode: 1253, Total Timesteps: 504391, Episode Reward: 794.93
+Episode: 1254, Total Timesteps: 505171, Episode Reward: 2311.42
+---------------------------------------
+Average Reward over the Evaluation Step: 760.493955
+---------------------------------------
+Episode: 1255, Total Timesteps: 505479, Episode Reward: 913.75
+Episode: 1256, Total Timesteps: 506479, Episode Reward: 3043.75
+Episode: 1257, Total Timesteps: 506524, Episode Reward: 91.77
+Episode: 1258, Total Timesteps: 506871, Episode Reward: 1071.26
+Episode: 1259, Total Timesteps: 506989, Episode Reward: 356.00
+Episode: 1260, Total Timesteps: 507177, Episode Reward: 511.99
+Episode: 1261, Total Timesteps: 507493, Episode Reward: 885.29
+Episode: 1262, Total Timesteps: 508140, Episode Reward: 1953.79
+Episode: 1263, Total Timesteps: 508216, Episode Reward: 207.76
+Episode: 1264, Total Timesteps: 508576, Episode Reward: 1126.86
+Episode: 1265, Total Timesteps: 508710, Episode Reward: 408.00
+Episode: 1266, Total Timesteps: 509710, Episode Reward: 726.17
+Episode: 1267, Total Timesteps: 510710, Episode Reward: 3092.49
+---------------------------------------
+Average Reward over the Evaluation Step: 1738.411240
+---------------------------------------
+Episode: 1268, Total Timesteps: 511257, Episode Reward: 1700.26
+Episode: 1269, Total Timesteps: 511861, Episode Reward: 1779.26
+Episode: 1270, Total Timesteps: 511954, Episode Reward: 282.86
+Episode: 1271, Total Timesteps: 512022, Episode Reward: 166.54
+Episode: 1272, Total Timesteps: 512305, Episode Reward: 904.18
+Episode: 1273, Total Timesteps: 513153, Episode Reward: 2602.64
+Episode: 1274, Total Timesteps: 513352, Episode Reward: 578.12
+Episode: 1275, Total Timesteps: 513526, Episode Reward: 408.82
+Episode: 1276, Total Timesteps: 513870, Episode Reward: 980.51
+Episode: 1277, Total Timesteps: 514022, Episode Reward: 480.27
+Episode: 1278, Total Timesteps: 514201, Episode Reward: 390.31
+Episode: 1279, Total Timesteps: 514615, Episode Reward: 1200.99
+Episode: 1280, Total Timesteps: 514839, Episode Reward: 684.68
+Episode: 1281, Total Timesteps: 515278, Episode Reward: 1315.26
+---------------------------------------
+Average Reward over the Evaluation Step: 593.395139
+---------------------------------------
+Episode: 1282, Total Timesteps: 515362, Episode Reward: 213.51
+Episode: 1283, Total Timesteps: 515432, Episode Reward: 170.77
+Episode: 1284, Total Timesteps: 515451, Episode Reward: 30.80
+Episode: 1285, Total Timesteps: 515769, Episode Reward: 860.53
+Episode: 1286, Total Timesteps: 516146, Episode Reward: 1056.57
+Episode: 1287, Total Timesteps: 516376, Episode Reward: 702.81
+Episode: 1288, Total Timesteps: 516510, Episode Reward: 367.41
+Episode: 1289, Total Timesteps: 516613, Episode Reward: 287.02
+Episode: 1290, Total Timesteps: 516749, Episode Reward: 376.77
+Episode: 1291, Total Timesteps: 517293, Episode Reward: 1596.17
+Episode: 1292, Total Timesteps: 518163, Episode Reward: 2577.60
+Episode: 1293, Total Timesteps: 518503, Episode Reward: 1011.96
+Episode: 1294, Total Timesteps: 518927, Episode Reward: 1380.39
+Episode: 1295, Total Timesteps: 519259, Episode Reward: 953.49
+Episode: 1296, Total Timesteps: 519349, Episode Reward: 234.67
+Episode: 1297, Total Timesteps: 519394, Episode Reward: 101.58
+Episode: 1298, Total Timesteps: 519423, Episode Reward: 69.23
+Episode: 1299, Total Timesteps: 519474, Episode Reward: 158.69
+Episode: 1300, Total Timesteps: 519755, Episode Reward: 723.65
+Episode: 1301, Total Timesteps: 520001, Episode Reward: 614.19
+---------------------------------------
+Average Reward over the Evaluation Step: 1144.196674
+---------------------------------------
+Episode: 1302, Total Timesteps: 520753, Episode Reward: 2312.66
+Episode: 1303, Total Timesteps: 521319, Episode Reward: 1654.06
+Episode: 1304, Total Timesteps: 521459, Episode Reward: 469.63
+Episode: 1305, Total Timesteps: 522459, Episode Reward: 3151.07
+Episode: 1306, Total Timesteps: 522576, Episode Reward: 344.75
+Episode: 1307, Total Timesteps: 522827, Episode Reward: 353.15
+Episode: 1308, Total Timesteps: 522883, Episode Reward: 32.28
+Episode: 1309, Total Timesteps: 523009, Episode Reward: 411.23
+Episode: 1310, Total Timesteps: 524009, Episode Reward: 3056.65
+Episode: 1311, Total Timesteps: 524211, Episode Reward: 553.95
+Episode: 1312, Total Timesteps: 524470, Episode Reward: 734.00
+Episode: 1313, Total Timesteps: 524629, Episode Reward: 436.61
+Episode: 1314, Total Timesteps: 524683, Episode Reward: 135.53
+Episode: 1315, Total Timesteps: 524860, Episode Reward: 585.42
+Episode: 1316, Total Timesteps: 525643, Episode Reward: 2159.79
+---------------------------------------
+Average Reward over the Evaluation Step: 696.488948
+---------------------------------------
+Episode: 1317, Total Timesteps: 525807, Episode Reward: 480.20
+Episode: 1318, Total Timesteps: 526048, Episode Reward: 701.39
+Episode: 1319, Total Timesteps: 527048, Episode Reward: 707.14
+Episode: 1320, Total Timesteps: 527173, Episode Reward: 351.38
+Episode: 1321, Total Timesteps: 527349, Episode Reward: 544.18
+Episode: 1322, Total Timesteps: 527432, Episode Reward: 174.73
+Episode: 1323, Total Timesteps: 527525, Episode Reward: 281.06
+Episode: 1324, Total Timesteps: 527719, Episode Reward: 610.39
+Episode: 1325, Total Timesteps: 528397, Episode Reward: 2026.69
+Episode: 1326, Total Timesteps: 529397, Episode Reward: 1421.87
+Episode: 1327, Total Timesteps: 530070, Episode Reward: 2052.02
+---------------------------------------
+Average Reward over the Evaluation Step: 679.739530
+---------------------------------------
+Episode: 1328, Total Timesteps: 531070, Episode Reward: -342.89
+Episode: 1329, Total Timesteps: 531548, Episode Reward: 1527.48
+Episode: 1330, Total Timesteps: 532548, Episode Reward: 647.93
+Episode: 1331, Total Timesteps: 533156, Episode Reward: 1791.82
+Episode: 1332, Total Timesteps: 533455, Episode Reward: 950.83
+Episode: 1333, Total Timesteps: 533578, Episode Reward: 312.55
+Episode: 1334, Total Timesteps: 533799, Episode Reward: 553.20
+Episode: 1335, Total Timesteps: 533901, Episode Reward: 242.13
+Episode: 1336, Total Timesteps: 534016, Episode Reward: 305.11
+Episode: 1337, Total Timesteps: 534062, Episode Reward: 128.04
+Episode: 1338, Total Timesteps: 534257, Episode Reward: 570.61
+Episode: 1339, Total Timesteps: 534365, Episode Reward: 355.58
+Episode: 1340, Total Timesteps: 534794, Episode Reward: 1274.39
+Episode: 1341, Total Timesteps: 535029, Episode Reward: 707.21
+---------------------------------------
+Average Reward over the Evaluation Step: 1461.898158
+---------------------------------------
+Episode: 1342, Total Timesteps: 535055, Episode Reward: 70.83
+Episode: 1343, Total Timesteps: 536055, Episode Reward: 1857.78
+Episode: 1344, Total Timesteps: 536134, Episode Reward: 218.98
+Episode: 1345, Total Timesteps: 536198, Episode Reward: 148.68
+Episode: 1346, Total Timesteps: 536353, Episode Reward: 348.64
+Episode: 1347, Total Timesteps: 536660, Episode Reward: 952.35
+Episode: 1348, Total Timesteps: 536833, Episode Reward: 508.06
+Episode: 1349, Total Timesteps: 536963, Episode Reward: 324.78
+Episode: 1350, Total Timesteps: 537068, Episode Reward: 316.67
+Episode: 1351, Total Timesteps: 537218, Episode Reward: 436.41
+Episode: 1352, Total Timesteps: 537256, Episode Reward: 64.75
+Episode: 1353, Total Timesteps: 537758, Episode Reward: 1502.64
+Episode: 1354, Total Timesteps: 537833, Episode Reward: 145.64
+Episode: 1355, Total Timesteps: 537893, Episode Reward: 185.64
+Episode: 1356, Total Timesteps: 538375, Episode Reward: 1532.05
+Episode: 1357, Total Timesteps: 538505, Episode Reward: 345.66
+Episode: 1358, Total Timesteps: 538786, Episode Reward: 765.71
+Episode: 1359, Total Timesteps: 538823, Episode Reward: 91.52
+Episode: 1360, Total Timesteps: 538922, Episode Reward: 230.52
+Episode: 1361, Total Timesteps: 539104, Episode Reward: 382.42
+Episode: 1362, Total Timesteps: 539915, Episode Reward: 2372.44
+Episode: 1363, Total Timesteps: 540270, Episode Reward: 1075.16
+---------------------------------------
+Average Reward over the Evaluation Step: 841.181380
+---------------------------------------
+Episode: 1364, Total Timesteps: 540363, Episode Reward: 196.36
+Episode: 1365, Total Timesteps: 540387, Episode Reward: 54.41
+Episode: 1366, Total Timesteps: 540750, Episode Reward: 1101.81
+Episode: 1367, Total Timesteps: 540787, Episode Reward: 88.39
+Episode: 1368, Total Timesteps: 541042, Episode Reward: 813.91
+Episode: 1369, Total Timesteps: 541286, Episode Reward: 738.95
+Episode: 1370, Total Timesteps: 542286, Episode Reward: 48.92
+Episode: 1371, Total Timesteps: 542451, Episode Reward: 480.68
+Episode: 1372, Total Timesteps: 542569, Episode Reward: 357.07
+Episode: 1373, Total Timesteps: 542831, Episode Reward: 773.55
+Episode: 1374, Total Timesteps: 542931, Episode Reward: 309.41
+Episode: 1375, Total Timesteps: 543185, Episode Reward: 699.67
+Episode: 1376, Total Timesteps: 543259, Episode Reward: 199.04
+Episode: 1377, Total Timesteps: 543514, Episode Reward: 808.66
+Episode: 1378, Total Timesteps: 543593, Episode Reward: 222.23
+Episode: 1379, Total Timesteps: 543625, Episode Reward: 88.86
+Episode: 1380, Total Timesteps: 543833, Episode Reward: 613.61
+Episode: 1381, Total Timesteps: 544833, Episode Reward: 1086.16
+Episode: 1382, Total Timesteps: 544978, Episode Reward: 406.62
+Episode: 1383, Total Timesteps: 545072, Episode Reward: 249.08
+---------------------------------------
+Average Reward over the Evaluation Step: 771.215385
+---------------------------------------
+Episode: 1384, Total Timesteps: 545781, Episode Reward: 2195.72
+Episode: 1385, Total Timesteps: 545937, Episode Reward: 472.03
+Episode: 1386, Total Timesteps: 545990, Episode Reward: 154.63
+Episode: 1387, Total Timesteps: 546305, Episode Reward: 975.03
+Episode: 1388, Total Timesteps: 546385, Episode Reward: 165.76
+Episode: 1389, Total Timesteps: 547010, Episode Reward: 1882.06
+Episode: 1390, Total Timesteps: 547169, Episode Reward: 527.15
+Episode: 1391, Total Timesteps: 547188, Episode Reward: 31.74
+Episode: 1392, Total Timesteps: 547275, Episode Reward: 200.98
+Episode: 1393, Total Timesteps: 548026, Episode Reward: 2320.00
+Episode: 1394, Total Timesteps: 548190, Episode Reward: 440.87
+Episode: 1395, Total Timesteps: 548269, Episode Reward: 215.57
+Episode: 1396, Total Timesteps: 548346, Episode Reward: 231.27
+Episode: 1397, Total Timesteps: 548389, Episode Reward: 104.05
+Episode: 1398, Total Timesteps: 549389, Episode Reward: 1142.95
+Episode: 1399, Total Timesteps: 549469, Episode Reward: 189.23
+Episode: 1400, Total Timesteps: 550469, Episode Reward: 3038.78
+---------------------------------------
+Average Reward over the Evaluation Step: 1125.957178
+---------------------------------------
+Episode: 1401, Total Timesteps: 550836, Episode Reward: 989.03
+Episode: 1402, Total Timesteps: 551074, Episode Reward: 656.38
+Episode: 1403, Total Timesteps: 552074, Episode Reward: 2973.20
+Episode: 1404, Total Timesteps: 552164, Episode Reward: 225.31
+Episode: 1405, Total Timesteps: 552577, Episode Reward: 1179.19
+Episode: 1406, Total Timesteps: 552919, Episode Reward: 962.98
+Episode: 1407, Total Timesteps: 552991, Episode Reward: 220.58
+Episode: 1408, Total Timesteps: 553119, Episode Reward: 340.35
+Episode: 1409, Total Timesteps: 553159, Episode Reward: 73.30
+Episode: 1410, Total Timesteps: 553409, Episode Reward: 755.24
+Episode: 1411, Total Timesteps: 553449, Episode Reward: 66.32
+Episode: 1412, Total Timesteps: 554001, Episode Reward: 1572.37
+Episode: 1413, Total Timesteps: 554325, Episode Reward: 1048.43
+Episode: 1414, Total Timesteps: 554367, Episode Reward: 52.71
+Episode: 1415, Total Timesteps: 554826, Episode Reward: 1368.71
+Episode: 1416, Total Timesteps: 554942, Episode Reward: 324.51
+Episode: 1417, Total Timesteps: 554977, Episode Reward: 82.87
+Episode: 1418, Total Timesteps: 555030, Episode Reward: 135.32
+---------------------------------------
+Average Reward over the Evaluation Step: 673.551393
+---------------------------------------
+Episode: 1419, Total Timesteps: 555189, Episode Reward: 417.79
+Episode: 1420, Total Timesteps: 555682, Episode Reward: 1475.63
+Episode: 1421, Total Timesteps: 555951, Episode Reward: 827.99
+Episode: 1422, Total Timesteps: 556951, Episode Reward: 2312.59
+Episode: 1423, Total Timesteps: 557062, Episode Reward: 193.82
+Episode: 1424, Total Timesteps: 557330, Episode Reward: 858.40
+Episode: 1425, Total Timesteps: 557454, Episode Reward: 362.58
+Episode: 1426, Total Timesteps: 557482, Episode Reward: 35.23
+Episode: 1427, Total Timesteps: 558060, Episode Reward: 1747.04
+Episode: 1428, Total Timesteps: 558477, Episode Reward: 1036.84
+Episode: 1429, Total Timesteps: 558598, Episode Reward: 349.81
+Episode: 1430, Total Timesteps: 558633, Episode Reward: 65.97
+Episode: 1431, Total Timesteps: 558720, Episode Reward: 225.01
+Episode: 1432, Total Timesteps: 559015, Episode Reward: 743.22
+Episode: 1433, Total Timesteps: 559289, Episode Reward: 776.70
+Episode: 1434, Total Timesteps: 559337, Episode Reward: 120.38
+Episode: 1435, Total Timesteps: 559487, Episode Reward: 465.55
+Episode: 1436, Total Timesteps: 559640, Episode Reward: 478.87
+Episode: 1437, Total Timesteps: 560640, Episode Reward: 547.87
+---------------------------------------
+Average Reward over the Evaluation Step: 1817.842546
+---------------------------------------
+Episode: 1438, Total Timesteps: 561031, Episode Reward: 1143.91
+Episode: 1439, Total Timesteps: 561087, Episode Reward: 152.53
+Episode: 1440, Total Timesteps: 561118, Episode Reward: 83.09
+Episode: 1441, Total Timesteps: 561146, Episode Reward: 51.78
+Episode: 1442, Total Timesteps: 561176, Episode Reward: 73.58
+Episode: 1443, Total Timesteps: 561386, Episode Reward: 569.22
+Episode: 1444, Total Timesteps: 561981, Episode Reward: 1643.41
+Episode: 1445, Total Timesteps: 562031, Episode Reward: 148.66
+Episode: 1446, Total Timesteps: 562108, Episode Reward: 211.40
+Episode: 1447, Total Timesteps: 562246, Episode Reward: 415.70
+Episode: 1448, Total Timesteps: 562339, Episode Reward: 275.68
+Episode: 1449, Total Timesteps: 562512, Episode Reward: 575.01
+Episode: 1450, Total Timesteps: 563122, Episode Reward: 1905.42
+Episode: 1451, Total Timesteps: 563247, Episode Reward: 344.36
+Episode: 1452, Total Timesteps: 563709, Episode Reward: 1323.63
+Episode: 1453, Total Timesteps: 564709, Episode Reward: 1151.97
+Episode: 1454, Total Timesteps: 565319, Episode Reward: 1918.18
+---------------------------------------
+Average Reward over the Evaluation Step: 1446.046870
+---------------------------------------
+Episode: 1455, Total Timesteps: 565758, Episode Reward: 1343.70
+Episode: 1456, Total Timesteps: 566296, Episode Reward: 1723.19
+Episode: 1457, Total Timesteps: 566425, Episode Reward: 386.03
+Episode: 1458, Total Timesteps: 566454, Episode Reward: 51.48
+Episode: 1459, Total Timesteps: 567160, Episode Reward: 2083.47
+Episode: 1460, Total Timesteps: 567317, Episode Reward: 454.72
+Episode: 1461, Total Timesteps: 568317, Episode Reward: 291.85
+Episode: 1462, Total Timesteps: 568399, Episode Reward: 256.15
+Episode: 1463, Total Timesteps: 569399, Episode Reward: 1805.42
+Episode: 1464, Total Timesteps: 569829, Episode Reward: 1236.66
+Episode: 1465, Total Timesteps: 569915, Episode Reward: 199.14
+Episode: 1466, Total Timesteps: 570054, Episode Reward: 431.95
+---------------------------------------
+Average Reward over the Evaluation Step: 1431.977224
+---------------------------------------
+Episode: 1467, Total Timesteps: 571054, Episode Reward: 925.69
+Episode: 1468, Total Timesteps: 571187, Episode Reward: 374.53
+Episode: 1469, Total Timesteps: 571328, Episode Reward: 351.60
+Episode: 1470, Total Timesteps: 572328, Episode Reward: 2836.59
+Episode: 1471, Total Timesteps: 572462, Episode Reward: 399.41
+Episode: 1472, Total Timesteps: 572680, Episode Reward: 667.60
+Episode: 1473, Total Timesteps: 573081, Episode Reward: 1011.86
+Episode: 1474, Total Timesteps: 573316, Episode Reward: 648.97
+Episode: 1475, Total Timesteps: 573350, Episode Reward: 31.66
+Episode: 1476, Total Timesteps: 573745, Episode Reward: 1075.37
+Episode: 1477, Total Timesteps: 573775, Episode Reward: 56.20
+Episode: 1478, Total Timesteps: 573860, Episode Reward: 219.09
+Episode: 1479, Total Timesteps: 573886, Episode Reward: 61.79
+Episode: 1480, Total Timesteps: 574425, Episode Reward: 1506.90
+Episode: 1481, Total Timesteps: 574590, Episode Reward: 540.52
+Episode: 1482, Total Timesteps: 574723, Episode Reward: 366.00
+Episode: 1483, Total Timesteps: 574915, Episode Reward: 591.23
+Episode: 1484, Total Timesteps: 575915, Episode Reward: 452.36
+---------------------------------------
+Average Reward over the Evaluation Step: 568.591176
+---------------------------------------
+Episode: 1485, Total Timesteps: 575976, Episode Reward: 178.08
+Episode: 1486, Total Timesteps: 576107, Episode Reward: 396.04
+Episode: 1487, Total Timesteps: 576266, Episode Reward: 478.77
+Episode: 1488, Total Timesteps: 576377, Episode Reward: 323.61
+Episode: 1489, Total Timesteps: 576535, Episode Reward: 418.43
+Episode: 1490, Total Timesteps: 576898, Episode Reward: 1023.32
+Episode: 1491, Total Timesteps: 577168, Episode Reward: 776.08
+Episode: 1492, Total Timesteps: 578168, Episode Reward: 591.55
+Episode: 1493, Total Timesteps: 578505, Episode Reward: 1002.47
+Episode: 1494, Total Timesteps: 578576, Episode Reward: 198.89
+Episode: 1495, Total Timesteps: 579576, Episode Reward: 811.66
+Episode: 1496, Total Timesteps: 580093, Episode Reward: 1509.82
+---------------------------------------
+Average Reward over the Evaluation Step: 1727.121870
+---------------------------------------
+Episode: 1497, Total Timesteps: 580666, Episode Reward: 1847.82
+Episode: 1498, Total Timesteps: 581611, Episode Reward: 2993.42
+Episode: 1499, Total Timesteps: 581993, Episode Reward: 1173.19
+Episode: 1500, Total Timesteps: 582209, Episode Reward: 623.36
+Episode: 1501, Total Timesteps: 582286, Episode Reward: 165.21
+Episode: 1502, Total Timesteps: 582366, Episode Reward: 174.79
+Episode: 1503, Total Timesteps: 582486, Episode Reward: 360.54
+Episode: 1504, Total Timesteps: 582588, Episode Reward: 314.03
+Episode: 1505, Total Timesteps: 583588, Episode Reward: 2932.82
+Episode: 1506, Total Timesteps: 583648, Episode Reward: 144.58
+Episode: 1507, Total Timesteps: 583740, Episode Reward: 179.50
+Episode: 1508, Total Timesteps: 583870, Episode Reward: 360.07
+Episode: 1509, Total Timesteps: 584205, Episode Reward: 1118.55
+Episode: 1510, Total Timesteps: 584283, Episode Reward: 204.74
+Episode: 1511, Total Timesteps: 584399, Episode Reward: 326.56
+Episode: 1512, Total Timesteps: 584517, Episode Reward: 246.92
+Episode: 1513, Total Timesteps: 584781, Episode Reward: 846.43
+Episode: 1514, Total Timesteps: 585006, Episode Reward: 615.56
+---------------------------------------
+Average Reward over the Evaluation Step: 761.494279
+---------------------------------------
+Episode: 1515, Total Timesteps: 585060, Episode Reward: 129.42
+Episode: 1516, Total Timesteps: 585316, Episode Reward: 715.12
+Episode: 1517, Total Timesteps: 585364, Episode Reward: 93.99
+Episode: 1518, Total Timesteps: 585608, Episode Reward: 728.31
+Episode: 1519, Total Timesteps: 585730, Episode Reward: 348.56
+Episode: 1520, Total Timesteps: 585772, Episode Reward: 97.72
+Episode: 1521, Total Timesteps: 586772, Episode Reward: 758.48
+Episode: 1522, Total Timesteps: 586862, Episode Reward: 234.15
+Episode: 1523, Total Timesteps: 587088, Episode Reward: 661.77
+Episode: 1524, Total Timesteps: 588088, Episode Reward: 2041.23
+Episode: 1525, Total Timesteps: 588228, Episode Reward: 418.52
+Episode: 1526, Total Timesteps: 588512, Episode Reward: 748.14
+Episode: 1527, Total Timesteps: 588561, Episode Reward: 108.48
+Episode: 1528, Total Timesteps: 588677, Episode Reward: 329.58
+Episode: 1529, Total Timesteps: 589677, Episode Reward: 3027.82
+Episode: 1530, Total Timesteps: 590677, Episode Reward: 469.91
+---------------------------------------
+Average Reward over the Evaluation Step: 870.078475
+---------------------------------------
+Episode: 1531, Total Timesteps: 590838, Episode Reward: 491.26
+Episode: 1532, Total Timesteps: 590871, Episode Reward: 57.39
+Episode: 1533, Total Timesteps: 591043, Episode Reward: 459.60
+Episode: 1534, Total Timesteps: 591111, Episode Reward: 177.92
+Episode: 1535, Total Timesteps: 591487, Episode Reward: 1054.73
+Episode: 1536, Total Timesteps: 591575, Episode Reward: 245.88
+Episode: 1537, Total Timesteps: 591761, Episode Reward: 545.10
+Episode: 1538, Total Timesteps: 591906, Episode Reward: 357.87
+Episode: 1539, Total Timesteps: 591960, Episode Reward: 138.87
+Episode: 1540, Total Timesteps: 592451, Episode Reward: 1593.55
+Episode: 1541, Total Timesteps: 592506, Episode Reward: 123.53
+Episode: 1542, Total Timesteps: 593506, Episode Reward: 177.21
+Episode: 1543, Total Timesteps: 593850, Episode Reward: 1051.71
+Episode: 1544, Total Timesteps: 593883, Episode Reward: 62.29
+Episode: 1545, Total Timesteps: 593965, Episode Reward: 226.40
+Episode: 1546, Total Timesteps: 594965, Episode Reward: 982.48
+Episode: 1547, Total Timesteps: 595106, Episode Reward: 421.87
+---------------------------------------
+Average Reward over the Evaluation Step: 589.823532
+---------------------------------------
+Episode: 1548, Total Timesteps: 595204, Episode Reward: 255.08
+Episode: 1549, Total Timesteps: 595409, Episode Reward: 630.20
+Episode: 1550, Total Timesteps: 595548, Episode Reward: 439.13
+Episode: 1551, Total Timesteps: 596548, Episode Reward: 3179.62
+Episode: 1552, Total Timesteps: 596725, Episode Reward: 550.78
+Episode: 1553, Total Timesteps: 596783, Episode Reward: 101.37
+Episode: 1554, Total Timesteps: 596984, Episode Reward: 607.58
+Episode: 1555, Total Timesteps: 597603, Episode Reward: 1847.66
+Episode: 1556, Total Timesteps: 597824, Episode Reward: 573.26
+Episode: 1557, Total Timesteps: 597872, Episode Reward: 102.46
+Episode: 1558, Total Timesteps: 598434, Episode Reward: 1491.81
+Episode: 1559, Total Timesteps: 598562, Episode Reward: 349.83
+Episode: 1560, Total Timesteps: 599562, Episode Reward: 649.67
+Episode: 1561, Total Timesteps: 599577, Episode Reward: 28.89
+Episode: 1562, Total Timesteps: 600577, Episode Reward: 3187.61
+---------------------------------------
+Average Reward over the Evaluation Step: 945.707092
+---------------------------------------
+Episode: 1563, Total Timesteps: 600785, Episode Reward: 556.38
+Episode: 1564, Total Timesteps: 600924, Episode Reward: 386.99
+Episode: 1565, Total Timesteps: 601924, Episode Reward: 695.57
+Episode: 1566, Total Timesteps: 602034, Episode Reward: 340.24
+Episode: 1567, Total Timesteps: 602520, Episode Reward: 1492.25
+Episode: 1568, Total Timesteps: 602641, Episode Reward: 353.36
+Episode: 1569, Total Timesteps: 602903, Episode Reward: 801.03
+Episode: 1570, Total Timesteps: 603319, Episode Reward: 1291.44
+Episode: 1571, Total Timesteps: 604048, Episode Reward: 2256.96
+Episode: 1572, Total Timesteps: 604113, Episode Reward: 171.28
+Episode: 1573, Total Timesteps: 604163, Episode Reward: -8.95
+Episode: 1574, Total Timesteps: 604199, Episode Reward: 73.11
+Episode: 1575, Total Timesteps: 604447, Episode Reward: 752.66
+Episode: 1576, Total Timesteps: 605447, Episode Reward: 3064.43
+---------------------------------------
+Average Reward over the Evaluation Step: 839.052126
+---------------------------------------
+Episode: 1577, Total Timesteps: 606447, Episode Reward: 1264.71
+Episode: 1578, Total Timesteps: 606716, Episode Reward: 810.57
+Episode: 1579, Total Timesteps: 607716, Episode Reward: 1259.80
+Episode: 1580, Total Timesteps: 608234, Episode Reward: 1774.55
+Episode: 1581, Total Timesteps: 608360, Episode Reward: 375.94
+Episode: 1582, Total Timesteps: 608577, Episode Reward: 625.73
+Episode: 1583, Total Timesteps: 608612, Episode Reward: -46.26
+Episode: 1584, Total Timesteps: 608777, Episode Reward: 511.48
+Episode: 1585, Total Timesteps: 609777, Episode Reward: 676.45
+Episode: 1586, Total Timesteps: 609973, Episode Reward: 606.18
+Episode: 1587, Total Timesteps: 610022, Episode Reward: 115.43
+---------------------------------------
+Average Reward over the Evaluation Step: 998.392138
+---------------------------------------
+Episode: 1588, Total Timesteps: 610206, Episode Reward: 526.69
+Episode: 1589, Total Timesteps: 610271, Episode Reward: 145.74
+Episode: 1590, Total Timesteps: 611271, Episode Reward: 585.99
+Episode: 1591, Total Timesteps: 611633, Episode Reward: 1157.42
+Episode: 1592, Total Timesteps: 611687, Episode Reward: 117.84
+Episode: 1593, Total Timesteps: 611898, Episode Reward: 544.48
+Episode: 1594, Total Timesteps: 611962, Episode Reward: 166.14
+Episode: 1595, Total Timesteps: 612056, Episode Reward: 263.84
+Episode: 1596, Total Timesteps: 612255, Episode Reward: 600.71
+Episode: 1597, Total Timesteps: 613255, Episode Reward: 502.65
+Episode: 1598, Total Timesteps: 613368, Episode Reward: 363.05
+Episode: 1599, Total Timesteps: 613489, Episode Reward: 289.85
+Episode: 1600, Total Timesteps: 614489, Episode Reward: 940.10
+Episode: 1601, Total Timesteps: 614527, Episode Reward: 103.53
+Episode: 1602, Total Timesteps: 615025, Episode Reward: 1550.45
+---------------------------------------
+Average Reward over the Evaluation Step: 711.536995
+---------------------------------------
+Episode: 1603, Total Timesteps: 615203, Episode Reward: 565.09
+Episode: 1604, Total Timesteps: 615547, Episode Reward: 977.22
+Episode: 1605, Total Timesteps: 615742, Episode Reward: 547.25
+Episode: 1606, Total Timesteps: 615799, Episode Reward: 109.17
+Episode: 1607, Total Timesteps: 616247, Episode Reward: 1433.38
+Episode: 1608, Total Timesteps: 616344, Episode Reward: 223.41
+---------------------------------------
+Average Reward over the Evaluation Step: 1423.215516
+---------------------------------------
+Episode: 1619, Total Timesteps: 620969, Episode Reward: 201.27
+Episode: 1620, Total Timesteps: 621969, Episode Reward: 3184.42
+Episode: 1621, Total Timesteps: 622242, Episode Reward: 857.06
+Episode: 1622, Total Timesteps: 622691, Episode Reward: 1373.82
+Episode: 1623, Total Timesteps: 623691, Episode Reward: 861.40
+Episode: 1624, Total Timesteps: 623922, Episode Reward: 739.61
+Episode: 1625, Total Timesteps: 624066, Episode Reward: 365.79
+Episode: 1626, Total Timesteps: 624390, Episode Reward: 1057.42
+Episode: 1627, Total Timesteps: 624569, Episode Reward: 526.60
